@@ -1,0 +1,6 @@
+body {
+    background: rgba(0, 64, 0, 0.1);
+    font-family: Candara, 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-kerning: normal;
+    text-rendering: optimizeLegibility;
+  }
